@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_save_button"
+        android:title="@string/save_button_name"
+
+        tools:showAsAction="always"
+        android:visible="true"
+        android:enabled="true"
+        android:orderInCategory="0" />
+
+
+</menu>

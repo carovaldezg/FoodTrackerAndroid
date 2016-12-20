@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodTrackerAndroid</string>
+    <string name="title_activity_meal_list_view_main">MealListViewMainActivity</string>
+    <string name="save_button_name">Save</string>
+
+
+</resources>
